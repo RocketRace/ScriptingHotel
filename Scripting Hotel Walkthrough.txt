@@ -1,0 +1,57 @@
+.-------------------------------------------------------------.
+|                                                             |
+|                ====  Scripting Hotel ====                   |
+|                                                             |
+|           * A dating simulator by Olivia Palmu *            |
+|                                                             |
+| You're a computer who's won a weekend in a five-star hotel! |
+| The hotel is hosting a gala night in two days, and you need |
+| to find a partner before then. Will you make it in time? Or |
+| will you sleep through the whole weekend? The place is full |
+| of programming languages (characters) to have conversations |
+| with. Maybe if you talk enough, you'll find a gala partner! |
+|                                                             |
+| Thank you for playing through this game! I had a lot of fun |
+| designing everything, even though I went a little overboard |
+| with the programming. Yeah, I wrote all of it from scratch. |
+| That wasn't so smart. I was going to add one more area, the |
+| Basement, as well. There would've been esoteric programming |
+| languages in there, and it would've been super crypting and |
+| everything. Also, I was planning to make the game last more |
+| time (in days) and add all sorts of features, but sometimes |
+| it's good to just get something done that works. Also, have |
+| you noticed that every paragraph in this walkthrough aligns |
+| to the same line width? You can't unsee it anymore! Bye! <3 |
+|                                                             |
+|                     === Walkthrough ===                     |
+|                                                             |
+| There's multiple ways to beat this game. To win, you simply |
+| have to chat with a character to increase your relationship |
+| level -- then they'll become your gala partner. In order to |
+| do that, you'll need to answer prompts during conversations |
+| with the best responses. Each character has unique prompts, |
+| so I'm going to list each one down below. Also keep in mind |
+| that you can make mistakes and try again - no reset needed. |
+| For the last (or third) prompt, you just have to say "Yes". |
+|                                                             |
+| ----------------------------------------------------------- |
+|    Language        First prompt           Second prompt     |
+| ----------------------------------------------------------- |
+|    Haskell        "I love them"     "It's not weird at all" |
+| ----------------------------------------------------------- |
+|                      "Yes"                                  |
+|    Python              or                    "Okay"         |
+|                    "heck yeah."                             |
+| ----------------------------------------------------------- |
+|                                          "That's okay"      |
+|     Rust           "I love it"                 or           |
+|                                     "It's fine, it happens" |
+| ----------------------------------------------------------- |
+|                       "Nosy"              "(Say nothing)"   |
+|       C                 or                     or           |
+|                   "(Stay silent)"      "(Chuckle slightly)" |
+| ----------------------------------------------------------- |
+|               "Maximalism all the way!"                     |
+|      C++               or                "I do that too!"   |
+|                    "Minimalism"                             |
+'-------------------------------------------------------------'
