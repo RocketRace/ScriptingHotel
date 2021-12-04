@@ -2,7 +2,7 @@
 |                                                             |
 |                ====  Scripting Hotel ====                   |
 |                                                             |
-|           * A dating simulator by Olivia Palmu *            |
+|              * A dating simulator by Olivia *               |
 |                                                             |
 | You're a computer who's won a weekend in a five-star hotel! |
 | The hotel is hosting a gala night in two days, and you need |
