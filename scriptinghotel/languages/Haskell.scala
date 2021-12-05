@@ -24,7 +24,7 @@ object Haskell extends Language("Haskell") {
           this,
           "(Opinion about plants?)",
           Map[String, String]("I love them" -> "Yeah, me too - I just want to take care of them!", "I don't really like plants" -> "... That's okay", "Sorry - plants gross me out" -> "It's, fine"),
-          Set[String]("Yeah, me too - I just want to take care of them")
+          Set[String]("Yeah, me too - I just want to take care of them!")
         ),
         this.dialogue("Flowers are just so pure. I want to do everything to help them."),
         this.dialogue("Although, well, nature does its thing -- but I want to have a positive impact, too."),
