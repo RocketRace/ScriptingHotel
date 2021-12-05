@@ -66,7 +66,7 @@ object Cpp extends Language("C++") {
     ),
     new Cutscene(
       Vector[Moment](
-        this.dialogue("Hey there, @playername@! Anything happened since last time?"),
+        this.dialogue("Hey there, @playerName@! Anything happened since last time?"),
         this.me("gives a wide smile"),
         this.dialogue("I've got a few stories to tell you."),
         this.dialogue("Try not to get bored!"),
